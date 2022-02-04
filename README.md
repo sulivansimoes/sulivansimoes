@@ -23,6 +23,18 @@ Hi, I'm Súlivan 🙋🏻‍♂️
   <img align="center" alt="Sulivan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Sulivan-FileZila" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Sulivan-tovs" height="30" width="40" src="https://media.discordapp.net/attachments/938971614228406312/938972195194036224/logo_totvs.png">
-  
 </div>
+  
+  ##
+  
+<div> 
+  <a href="https://www.linkedin.com/in/sulivan-simoes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://sulivansistemas.com/" target="_blank"><img src=https://img.shields.io/badge/-MyCompany-333333?style=flat&logo=teste&logoColor=007396" target="_blank"></a> 
+    
+ ##
+    
+    
+  
+
+  </div>
   
