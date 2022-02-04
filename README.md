@@ -32,11 +32,9 @@ Hi, I'm Súlivan 🙋🏻‍♂️
   <a href="https://sulivansistemas.com/" target="_blank"><img src=https://img.shields.io/badge/-MyCompany-333333?style=flat&logo=teste&logoColor=007396" target="_blank"></a> 
     
  ##
-    
- ![Snake animation](https://github.com/sulivansimoes/sulivansimoes/blob/output/github-contribution-grid-snake.svg)   
-    
-    
-  
+</div>    
 
-  </div>
+![Snake animation](https://github.com/sulivansimoes/sulivansimoes/blob/output/github-contribution-grid-snake.svg)   
+
+
   
