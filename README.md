@@ -33,6 +33,8 @@ Hi, I'm Súlivan 🙋🏻‍♂️
     
  ##
     
+ ![Snake animation](https://github.com/sulivansimoes/sulivansimoes/blob/output/github-contribution-grid-snake.svg)   
+    
     
   
 
