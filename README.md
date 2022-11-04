@@ -29,7 +29,7 @@ Hi, I'm Súlivan 🙋🏻‍♂️
   
 <div> 
   <a href="https://www.linkedin.com/in/sulivan-simoes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://sulivansistemas.com/" target="_blank"><img src=https://img.shields.io/badge/-MyCompany-333333?style=flat&logo=teste&logoColor=007396" target="_blank"></a> 
+  <a href="https://sulivansistemas.com/" target="_blank"><img src=https://img.shields.io/badge/-%20Company-lightgrey target="_blank"></a> 
     
  ##
 </div>    
