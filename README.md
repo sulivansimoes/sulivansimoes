@@ -1,7 +1,7 @@
 Hi, I'm Súlivan 🙋🏻‍♂️
 
 - 🔭 I’m currently working with Advpl, TL++, SQL..
-- 🌱 I’m currently learning among other things..
+- 🌱 I’m currently learning many other things..
 
 <div align="left">
   <a href="https://github.com/sulivansimoes">
