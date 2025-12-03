@@ -2,6 +2,7 @@ Hi, I'm Súlivan 🙋🏻‍♂️
 
 - 🔭 I’m currently working with Advpl, TL++, SQL..
 - 🌱 I’m currently learning many other things..
+- 🔏 I'm always making commits to a private repository...
 
 <div align="left">
   <a href="https://github.com/sulivansimoes">
