@@ -24,7 +24,7 @@ Hi, I'm Súlivan 🙋🏻‍♂️
   <img align="center" alt="Sulivan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Sulivan-FileZila" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Sulivan-tovs" height="30" width="40" src="https://media.discordapp.net/attachments/938971614228406312/938972195194036224/logo_totvs.png">  
-  <img align="center" alt="Sulivan-proxmox" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" />
+  <img align="center" alt="Sulivan-proxmox" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" />
 </div>
   
   ##
