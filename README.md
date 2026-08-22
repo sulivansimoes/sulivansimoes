@@ -10,6 +10,7 @@ Hi, I'm Súlivan 🙋🏻‍♂️
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulivansimoes&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Sulivan-proxmox" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="Sulivan-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Sulivan-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Sulivan-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -24,8 +25,7 @@ Hi, I'm Súlivan 🙋🏻‍♂️
   <img align="center" alt="Sulivan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Sulivan-FileZila" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Sulivan-tovs" height="30" width="40" src="https://media.discordapp.net/attachments/938971614228406312/938972195194036224/logo_totvs.png">  
-  <img align="center" alt="Sulivan-proxmox" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" />
-  <img align="center" alt="Sulivan-proxmox" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="Sulivan-proxmox" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" />  
 </div>
   
   ##
